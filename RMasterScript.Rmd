@@ -4,7 +4,7 @@ author: |
   | Mohamad Bazzi, Nicolás E. Campione, Henning Blom, Per E. Ahlberg, and Benjamin P. Kear
   | Department of Organismal Biology, Uppsala University.
   |
-  | Mohamad.Bazzi@ebc.uu.se
+  | Mohamad.Bazzi@uzh.ch
 output:
   pdf_document: default
   fontsize: 10pt
